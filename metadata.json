@@ -1,0 +1,13 @@
+{
+  "name": "StJosephs Token",
+  "symbol": "STJ",
+  "uri": "https://your-metadata-uri.com/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "4uYxRWxrXDe3wpH9Qgk1kd5nJUaex29naVckYLZw1FGw",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
